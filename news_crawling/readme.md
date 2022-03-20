@@ -23,4 +23,5 @@
 <br/>
 <br/>
 <br/>
-![paper](./news_crawling/framing metaverse in korean newspaper.jpg)
+![Alt text](general-pratice/news_crawling/paper.jpg)
+
