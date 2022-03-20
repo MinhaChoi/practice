@@ -23,4 +23,6 @@
 <br/>
 <br/>
 <br/>
-![텍스트](general-pratice/news_crawling/paper.jpg)
+
+
+![paper](./news_crawling/paper.jpg)
