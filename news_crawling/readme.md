@@ -23,5 +23,4 @@
 <br/>
 <br/>
 <br/>
-![Alt text](general-pratice/news_crawling/paper.jpg)
-
+![텍스트](general-pratice/news_crawling/paper.jpg)
