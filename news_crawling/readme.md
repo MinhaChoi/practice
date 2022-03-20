@@ -21,5 +21,6 @@
   + 빅카인즈 데이터. 본문 수집가능 but, 메타버스 검색어로 12000개 한계, 실제 메타버스 검색어로 발생한 뉴스는 15만개 (22.02.28기준)
   + <https://www.data.go.kr/>     
 <br/>
-      
-      
+<br/>
+<br/>
+![paper](./news_crawling/framing metaverse in korean newspaper.jpg)
