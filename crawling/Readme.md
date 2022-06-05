@@ -2,3 +2,4 @@
 + naver_cafe_crwaling.ipynb (update 22.04.15)
 + naver_blog_crawling.ipynb (update 22.04.16)
 + naver_shopping_best_crawling.ipynb (update 22.04.19)
++ naver_map_review_crawling.ipynb (update 22.06.06)
