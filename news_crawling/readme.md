@@ -25,4 +25,4 @@
 <br/>
 
 
-![paper](./news_crawling/paper.jpg)
+![paper](MinhaChoi/practice/news_crawling/paper.jpg)
