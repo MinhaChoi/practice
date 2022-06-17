@@ -1,5 +1,5 @@
 
 # text mining
 
-+ 🖤 Clustering
-+ 💛 Topic modeling
+## methods
+  +**LDA Topic modeling**
