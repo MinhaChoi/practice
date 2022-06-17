@@ -23,5 +23,4 @@
 <br/>
 <br/>
 <br/>
-
-<img width="80%" src="https://user-images.githubusercontent.com/65816024/174197066-05ea1711-da67-4dc9-ab24-c124cd249cc9.jpg"/>
+<img width="100%" src="https://user-images.githubusercontent.com/65816024/174197066-05ea1711-da67-4dc9-ab24-c124cd249cc9.jpg"/>
