@@ -21,6 +21,4 @@
   + 빅카인즈 데이터. 본문 수집가능 but, 메타버스 검색어로 12000개 한계, 실제 메타버스 검색어로 발생한 뉴스는 15만개 (22.02.28기준)
   + <https://www.data.go.kr/>     
 <br/>
-<br/>
-<br/>
 <img width="100%" src="https://user-images.githubusercontent.com/65816024/174197066-05ea1711-da67-4dc9-ab24-c124cd249cc9.jpg"/>
