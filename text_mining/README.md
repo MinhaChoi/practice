@@ -2,4 +2,4 @@
 # text mining
 
 ## methods
-  +**LDA Topic modeling**
++ **LDA Topic modeling**
