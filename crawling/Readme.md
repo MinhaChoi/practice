@@ -5,3 +5,4 @@
 + naver_map_review_crawling.ipynb (update 22.06.06)
 + amazon_review_crawling.ipynb (update 22.06.13)
 + naver_target_cafe_crawling.ipynb (update 22.06.13)
++ tripadvisor_scraping.ipynb (update 22.12.05)
